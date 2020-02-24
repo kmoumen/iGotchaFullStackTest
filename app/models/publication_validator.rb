@@ -6,7 +6,6 @@ class PublicationValidator < ActiveModel::Validator
     else
       return true
     end
-
   end
 
 end

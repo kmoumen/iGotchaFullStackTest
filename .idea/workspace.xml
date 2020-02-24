@@ -50,8 +50,8 @@
       <file leaf-file-name="playlist.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/playlist.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="120" column="25" selection-start-line="120" selection-start-column="25" selection-end-line="120" selection-end-column="25" />
+            <state relative-caret-position="95">
+              <caret line="5" column="93" selection-start-line="5" selection-start-column="93" selection-end-line="5" selection-end-column="93" />
               <folding />
             </state>
           </provider>
@@ -60,18 +60,18 @@
       <file leaf-file-name="tagged_resource.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/tagged_resource.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="0">
+              <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publication_validator.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="publication_validator.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/publication_validator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,28 +80,8 @@
       <file leaf-file-name="ad.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/ad.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="152">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -117,11 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="url_validator.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="url_validator.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/url_validator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="38">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -148,19 +128,19 @@
         <option value="$PROJECT_DIR$/db/migrate/20200224004048_create_tags.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20200224004450_create_ad_diffusion_through_playlists.rb" />
         <option value="$PROJECT_DIR$/app/models/ad_diffusion_through_playlist.rb" />
-        <option value="$PROJECT_DIR$/app/models/url_validator.rb" />
         <option value="$PROJECT_DIR$/app/models/tagged_resouce.rb" />
-        <option value="$PROJECT_DIR$/app/models/ad.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20200224013402_create_tagged_resouces.rb" />
         <option value="$PROJECT_DIR$/lib/tasks/data.rake" />
         <option value="$PROJECT_DIR$/db/migrate/20200224035816_add_publication_dates_to_tagged_resources.rb" />
-        <option value="$PROJECT_DIR$/app/models/tagged_resource.rb" />
-        <option value="$PROJECT_DIR$/app/models/playlist.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app/models/tag.rb" />
+        <option value="$PROJECT_DIR$/app/models/playlist.rb" />
+        <option value="$PROJECT_DIR$/app/models/tagged_resource.rb" />
         <option value="$PROJECT_DIR$/app/models/publication_validator.rb" />
+        <option value="$PROJECT_DIR$/app/models/ad.rb" />
+        <option value="$PROJECT_DIR$/app/models/url_validator.rb" />
       </list>
     </option>
   </component>
@@ -595,12 +575,12 @@
       <workItem from="1582487089269" duration="926000" />
       <workItem from="1582504868977" duration="1617000" />
       <workItem from="1582507697101" duration="56000" />
-      <workItem from="1582507758249" duration="12108000" />
+      <workItem from="1582507758249" duration="12937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25810000" />
+    <option name="totallyTimeSpent" value="26639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
@@ -882,26 +862,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/url_validator.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/publication_validator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/tagged_resource.rb">
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/playlist.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="120" column="25" selection-start-line="120" selection-start-column="25" selection-end-line="120" selection-end-column="25" />
+        <state relative-caret-position="437">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -922,26 +902,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/tagged_resource.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/app/models/playlist.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="95">
+          <caret line="5" column="93" selection-start-line="5" selection-start-column="93" selection-end-line="5" selection-end-column="93" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/ad.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="152">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -954,10 +934,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/publication_validator.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/url_validator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding />
         </state>
       </provider>
